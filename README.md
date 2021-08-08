@@ -10,4 +10,4 @@ This work is licensed under a
 # Credits
 Special thanks is owed to the following:
 1. Colin from [This Does Not Compute](https://www.patreon.com/thisdoesnotcompute/) for loaning me the eMate Expansion module [from this video](https://youtu.be/-_PldKJzEJ8?t=99) for backward engineering.
-2. The [Retro SCSI Discord](https://discord.gg/5AtypUqFCT) for fostering community development on retro hardware.
+2. The [Open Retro SCSI Discord Server](https://discord.gg/5AtypUqFCT) for fostering community development on retro hardware.
