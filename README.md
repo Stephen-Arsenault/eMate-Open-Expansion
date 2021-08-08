@@ -6,3 +6,8 @@ An open source expansion module for the eMate 300.
 # License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+# Credits
+Special thanks is owed to the following:
+1. Colin from [This Does Not Compute](https://www.patreon.com/thisdoesnotcompute/) for loaning me the eMate Expansion module [from this video](https://youtu.be/-_PldKJzEJ8?t=99) for backward engineering.
+2. The [Retro SCSI Discord](https://discord.gg/5AtypUqFCT) for fostering community development on retro hardware.
