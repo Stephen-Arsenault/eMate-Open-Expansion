@@ -9,7 +9,7 @@ This work is licensed under a
 
 # Schematics
 The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (72 DPI), and PDF Vector format.
-[![Lo-Res Schematic JPEG](https://raw.githubusercontent.com/Stephen-Arsenault/eMate-Open-Expansion/main/Schematics/lores__Schematic_eMate%20Expansion.jpg?token=AEHTJRXH7XNATV6DTQQLKDTBCSJ5K)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
+[![Lo-Res Schematic JPEG](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/LORES__Schematic_eMate%20Expansion.jpg?raw=true)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
 
 # Credits
 Special thanks is owed to the following:
