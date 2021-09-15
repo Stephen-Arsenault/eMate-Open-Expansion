@@ -12,9 +12,9 @@ The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (7
 [![Lo-Res Schematic JPEG](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/LORES__Schematic_eMate%20Expansion.jpg?raw=true)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
 
 # Bill of Materials
- * 2x `KM416V1000BT-L6` or 2x `IS41LV16105D-50TLI` (or lower latency versions of these chips)
+ * 2x `KM416V1000BT-L6` or 2x `IS41LV16105D-50TLI` (or lower latency versions of these chips) ([Mouser](https://www.newark.com/integrated-silicon-solution-issi/is41lv16105d-50tli/dram-16mbit-tsop-ii-44/dp/37AC0634))
  * 1x `E28F016SV` (larger storage densities may be supported but have not been tested)
- * 4x 100nF Ceramic Capacitor (0402 Footprint)
+ * 4x 100nF Ceramic Capacitor (0402 Footprint) ([DigiKey](https://www.digikey.com/en/products/detail/murata-electronics/GRM155R62A104ME14D/5027544))
 
 
 # Credits
