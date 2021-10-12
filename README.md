@@ -1,6 +1,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<img align="right" width="250" height="134" src="https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Images/banner.png?raw=true">
+<img align="right" width="400" height="215" src="https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Images/banner.png?raw=true">
 
 # Apple 512kb 68-Pin VRAM
 An open source VRAM module based on the Apple 820-0605-A.
