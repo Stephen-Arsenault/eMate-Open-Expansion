@@ -2,8 +2,8 @@
 
 <img align="right" width="400" height="215" src="https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Images/banner.png?raw=true">
 
-# Apple 512kb 68-Pin VRAM
-An open source VRAM module based on the Apple 820-0605-A.
+# Apple eMate 300 Expansion Board
+An eMate expansion module ([Open Hardware](https://oshwlab.com/stephenarsenault/emate-expansion))
 
 # License
 This work is licensed under a
