@@ -22,4 +22,5 @@ The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (7
 # Credits
 Special thanks is owed to the following:
 1. Colin from [This Does Not Compute](https://www.patreon.com/thisdoesnotcompute/) ([YouTube](https://www.youtube.com/channel/UCEp20NgOZHmgWdbQdHSxgjw)) for loaning me the eMate Expansion module [from this video](https://youtu.be/-_PldKJzEJ8?t=99) for backward engineering.
-2. The [Open Retro SCSI Discord Server](https://discord.gg/5AtypUqFCT) for fostering community development on retro hardware.
+2. Jacob "Androda" ([GitHub](https://github.com/androda)) for his help understanding modern memory chip alternatives and reviewing PCB designs.
+3. The [Open Retro SCSI Discord Server](https://discord.gg/5AtypUqFCT) for fostering community development on retro hardware.
